@@ -7,8 +7,8 @@
 
  * Visual Studio Code (Code editor);
  * JavaScript no ambiente Node
- * Nodemon
- * Gerenciamento de pacote npm
+ * Insomnia
+ * Gerenciador de pacote npm
 
 ## 💻 Pré-requisitos
 
