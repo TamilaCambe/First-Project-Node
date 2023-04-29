@@ -2,13 +2,6 @@
 <h1 align = 'center'> Primeiro Projeto Node 💻</h1>
 
 <h3 align = 'center'>Primeiro projeto com Node, feito em aula. </h3>
- 
- ## Explicação 📑
- 
- <p> 
-Projeto de back-end que simula o cadastro de pedidos de uma hamburgueria. Nele é possível criar, listar, alterar os pedidos e o status de cada um (em preparação ou pronto) e também deletar.
-Além disso, também foi criado duas funções Middleware, uma para verificar se o id existe e a outra que mostra o método e a url da requisição.
-<p>
 
 ## 💻 Tecnologias usadas
 
